@@ -1,4 +1,4 @@
-# Sistema de Controle e Gerenciamento de Ordem de Serviço para Oficina Mecânica
+# Desafio DIO: Ordem de Serviço para Oficina Mecânica
 
 ## Descrição do Projeto
 
@@ -28,5 +28,10 @@ O esquema apresenta as seguintes entidades principais:
 - **Peça**: Componentes utilizados nas OS, com preço e estoque.
 - **OS_Serviço**: Relação entre OS e serviços aplicados, com quantidade e custo aplicado.
 - **OS_Peça**: Relação entre OS e peças utilizadas, com quantidade e custo aplicado.
+  
+---
 
 O modelo completo está ilustrado no diagrama do banco de dados incluído no projeto.
+
+
+[Diagrama](./oficina.png)  [Database](./Database/)
