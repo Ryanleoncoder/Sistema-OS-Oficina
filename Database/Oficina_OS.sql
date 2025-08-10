@@ -59,7 +59,7 @@ CREATE TABLE Servico (
 );
 
 
-CREATE TABLE Peca (
+CREATE TABLE Peça (
     peca_id INT PRIMARY KEY AUTO_INCREMENT,
     descricao VARCHAR(200) NOT NULL,
     valor_unitario DECIMAL(10,2) NOT NULL,
@@ -80,7 +80,7 @@ CREATE TABLE OS_Servico (
 );
 
 
-CREATE TABLE OS_Peca (
+CREATE TABLE OS_Peça (
     os_id INT NOT NULL,
     peca_id INT NOT NULL,
     quantidade INT DEFAULT 1,
