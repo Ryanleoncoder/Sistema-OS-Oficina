@@ -36,4 +36,4 @@ O modelo completo está ilustrado no diagrama do banco de dados incluído no pro
 
 [Diagrama](./oficina.png)  [Database](./Database/)
 
-`` Futuramente, estarei implementando um app para a gestão dessas ordens de serviço (OS). ``
+`` Como complemento ao desafio do Bootcamp de Análise de Dados da DIO, e de forma independente, planejo desenvolver um app para gestão dessas ordens de serviço. ``
