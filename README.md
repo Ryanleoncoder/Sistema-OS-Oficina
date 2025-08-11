@@ -35,3 +35,5 @@ O esquema apresenta as seguintes entidades principais:
 O modelo completo está ilustrado no diagrama do banco de dados incluído no projeto.
 
 [Diagrama](./oficina.png)  [Database](./Database/)
+
+`` Futuramente, estarei implementando um app para a gestão dessas ordens de serviço (OS). ``
